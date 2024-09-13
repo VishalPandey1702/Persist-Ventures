@@ -26,17 +26,17 @@ function App() {
       
       <div className='flex justify-center items-center'>
         <RiAccountCircleLine size={20}/>
-        <a  target='_blank' href="https://shabbir-yahya-portfolio.netlify.app/" >Shabbir Yahya</a>
+        <a  target='_blank'  >Shabbir Yahya</a>
       </div>
  
       <div className='flex justify-center items-center'>
         <BiPhoneCall/>
-        <a target='_blank' href="tel:+919574713452">Contact</a>
+        <a target='_blank' href="tel:+917068787934">Contact</a>
       </div>
 
       <div className='flex justify-center items-center '>
         <AiOutlineMail size={20}/>
-        <a target='_blank'  href="mailto: shabbirkatlarywala5@gmail.com">E-Mail</a>
+        <a target='_blank'  href="mailto: vishal70687934@gmail.com">E-Mail</a>
       </div>
 
      </footer>
